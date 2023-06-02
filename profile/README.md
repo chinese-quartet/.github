@@ -1,5 +1,3 @@
-## Resources
-
 ### Main Website
 - [Quartet Data Portal](https://chinese-quartet.org/)
 
